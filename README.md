@@ -1,0 +1,1 @@
+# Artigos_com_chatGpt_Lexica
