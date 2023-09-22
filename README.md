@@ -2,8 +2,6 @@
 <img src="https://github.com/P4mm/Artigos_com_chatGpt_Lexica/assets/100779250/410b016d-86ad-4d32-9e06-e65d94757392" width="1500px" />
 </div>
 
-# Diretivas de Bancos de Dados Relacionais: Orientações para Eficiência e Confiança
-
 **Introdução**
 
 Os bancos de dados relacionais desempenham um papel crucial no mundo da tecnologia, armazenando, gerenciando e organizando dados de maneira estruturada. Para garantir a eficiência operacional e a confiança nos sistemas de gerenciamento de banco de dados relacionais (SGBDR), é essencial estabelecer diretivas bem definidas. Essas diretrizes orientam a configuração, manutenção e utilização dos bancos de dados, visando garantir a integridade, segurança e desempenho ideal.
